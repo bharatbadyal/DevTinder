@@ -10,5 +10,5 @@ app.use("/pricing", (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`Server is sucessfully listning on Port no. ${PORT}`);
+  console.log(`Server is sucessfullAy listning on Port no. ${PORT}`);
 });
