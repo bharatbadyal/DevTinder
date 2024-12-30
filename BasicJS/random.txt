@@ -1,0 +1,1 @@
+These are just random words which will be used to practive async function in Node JS which will uses its interall powers like  V8 --> LibUV to do these non blocking i/o function irrespective of being single threaded language. All these async properties given to nodeJs by LibUV library which is written in c language
